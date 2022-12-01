@@ -1,6 +1,6 @@
 <footer>
     <p align="center">
-      <a href="https://www.youtube.com/watch?v=zGoxxM9VPjU&list=LL&index=9" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zGoxxM9VPjU" target="_blank">
         <img src="https://thumbs.gfycat.com/SkeletalUntidyIlladopsis-size_restricted.gif" width="700px" height="400px" alt="supergeil!">
       </a>
     </p>
